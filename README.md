@@ -6,7 +6,7 @@ Starlink is a React.js project to track satellites in real-time based on geo-loc
 
 <p align="center"><img src="TheStarryNight/pictures/starlink-demo.gif" alt="Demo Gif" width="850" height="600"></p>
 
-### Technical Details
+### Tools and Technologies
 
 A lightweight frontend project based on **React.js**, Starlink uses **Ant Design** for user-friendly UI components and **D3** for dynamic satellite visualization. It also uses the **Axios** library to make AJAX requests and **create-react-app-buildpack** to deal with CORS issues. It is now deployed on **Heroku** and served via **Nginx** for better stability.
 
